@@ -1,0 +1,13 @@
+{
+  "name": "personal-site",
+  "version": "1.0.0",
+  "description": "My personal site",
+  "main": "index.js",
+  "repository": "git@github.com:johnnyboyy/personal-site.git",
+  "author": "John <zdanis.john@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
